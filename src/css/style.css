@@ -42,7 +42,5 @@
 .dest {
   width: auto;
   height: auto;
-  display: flex;
-  color: aqua;
-  margin: 0 auto;
+  display: block;
 }
